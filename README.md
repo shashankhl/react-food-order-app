@@ -16,7 +16,7 @@ This project is built using **ReactJS** and demonstrates intermediate React conc
 
 ## 🔗 Demo
 
-- 👉 <a target="_blank" href="https://shl-react-food-order.netlify.app/">Click here</a> to try the Food Order App live!
+- 👉 <a target="_blank" href="https://react-food-order-app-vamh.onrender.com/">Click here</a> to try the Food Order App live!
 
 <img src="thumbnail.png" alt="React Food App Screenshot" width="100%">
 
